@@ -36,7 +36,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>malar5</username>
 						<password>Varunkutty1!</password>
-						<application>target/cicd_sample-1.0.0-mule-application.jar</application>
+						<application>target/cicd_sample-1.0.0-mule-application.zip</application>
 						<applicationName>cicd_sample</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
