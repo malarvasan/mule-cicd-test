@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>cicd_sample</artifactId>
+	<artifactId>cicd-sample</artifactId>
 	<!--version>1.0.0-SNAPSHOT</version-->
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>cicd_sample</name>
+	<name>cicd-sample</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,7 +36,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>malar5</username>
 						<password>Varunkutty1!</password>
-						<applicationName>cicd_sample</applicationName>
+						<applicationName>cicd-sample</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
@@ -89,7 +89,7 @@
 		<pluginRepository>
 			<id>mule-public</id>
 			<url>https://repository.mulesoft.org/nexus/content/repositories/releases</url>
-		</pluginRepository>		
+		</pluginRepository>
 	</pluginRepositories>
 
 </project>
